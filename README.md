@@ -1,5 +1,8 @@
 # Work in progress
 
+Trying out different tools & styles of presentation
+* [bookdown: gitbook style](bookdown-gitbook/)
+
 
 ## making the book
 
