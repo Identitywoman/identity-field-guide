@@ -1,6 +1,16 @@
 # Work in progress
 
 
+## making the book
+
+
+```
+bookdown::render_book('index.Rmd', 'all')
+```
+
+
+## initial content length
+
 ```
  wc -w *
 

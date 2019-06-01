@@ -1,4 +1,5 @@
-Names
+# Names
+
 Names are what we call ourselves and what others call us. They are a special kind of identifier because they are the link between us and the social world around us. We present ourselves using names so people know how to refer to us when talking to others or call us when they are talking to us. They convey meaning and have power.
 
 Digital devices can also have names are defined by the administrators of these devices. Places have names given to them by people in a given context these help us refer to a geographic location. It should be noted that the names first nations (indian or native american) people had for places are different then the ones that the American’s colonized their land used.
