@@ -4,15 +4,42 @@ Trying out different tools & styles of presentation
 * [bookdown: gitbook style](bookdown-gitbook/)
 
 
-## making the book
+## Making the book
 
+### Install dependencies on Mac OSX
+
+1. Install [homebrew](https://brew.sh/)
+
+2. Install R and Pandoc
 
 ```
-bookdown::render_book('index.Rmd', 'all')
+brew install r
+brew install pandoc
+brew install pandoc-citeproc
 ```
 
+3. Install R packages
 
-## initial content length
+on the command-line, type `r` to start the interactive command-line tool (aka REPL) for the R programming language. Then install packages:
+
+```
+install.packages("rmarkdown")
+install.packages("DT")
+install.packages("pipeR")
+install.packages("bookdown")
+quit()
+```
+
+### Make the book
+
+In the terminal:
+```
+rscript -e "bookdown::render_book('index.Rmd', 'all')"
+```
+
+## Other notes
+
+initial content length
 
 ```
  wc -w *
