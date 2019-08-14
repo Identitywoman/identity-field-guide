@@ -1,5 +1,6 @@
 +++
-title = "Work"
-id = "work"
+title = "Buy"
 bgImage = "img/slider-bg.jpg"
 +++
+
+Buy our book!

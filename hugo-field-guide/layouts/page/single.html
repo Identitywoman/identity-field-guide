@@ -9,7 +9,8 @@
 
 	{{ if isset .Params "id" }}
 		{{ partial .Params.id . }}
-	{{ else }}
+  {{ else }}
+    {{ partial "global-header.html" . }}
 		<main>{{ .Content }}</main>
 	{{ end }}
 
