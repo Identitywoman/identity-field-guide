@@ -8,6 +8,7 @@ Identity is socially constructed and contextual.
 Many things about identity seem like they have been true "forever" but it is important to remember that we make everything up. 
 Everything. 
 We make up the social systems we live at multiple scales: 
+
 * family 
 * neighborhood 
 * religious community 
