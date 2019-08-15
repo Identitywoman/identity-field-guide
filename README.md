@@ -16,7 +16,11 @@ Trying out different tools & styles of presentation
 brew install r
 brew install pandoc
 brew install pandoc-citeproc
+brew install homebrew/cask/basictex
 ```
+
+open a new terminal window
+
 
 3. Install R packages
 
@@ -35,6 +39,17 @@ quit()
 In the terminal:
 ```
 rscript -e "bookdown::render_book('index.Rmd', 'all')"
+```
+
+
+to see the PDF book version:
+```
+open _book/id-field-guide.pdf
+```
+
+to see the HTML book version:
+```
+open _book/index.html
 ```
 
 ## Other notes
