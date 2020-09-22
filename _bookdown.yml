@@ -1,7 +1,6 @@
-book_filename: "id-field-guide"
+book_filename: "identity-field-guide"
 language:
   ui:
     chapter_name: "Chapter "
 delete_merged_file: true
-rmd_files: ["index.rmd", "1-intro.md", "2-names.md", "3-identifiers.md", "4-name-spaces.md"
-]
+rmd_files: ["index.rmd", "1-intro.md", "2-names.md", "3-identifiers.md", "4-name-spaces.md"]

@@ -41,16 +41,17 @@ In the terminal:
 rscript -e "bookdown::render_book('index.Rmd', 'all')"
 ```
 
-
 to see the PDF book version:
 ```
 open _book/id-field-guide.pdf
 ```
 
-to see the HTML book version:
+to see the HTML book version (without JavaScript UI):
 ```
 open _book/index.html
 ```
+
+TODO: add instructions to sever pages locally and show UI
 
 ## Other notes
 

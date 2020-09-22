@@ -1,0 +1,26 @@
+---
+title: "Field Guide for Identity"
+author: "Kaliya Young (aka Identity Woman)"
+site: bookdown::bookdown_site
+documentclass: book
+output:
+  bookdown::gitbook: default
+  bookdown::pdf_book: default
+---
+
+# Preface  {-}
+
+This is a work-in-progress. 
+
+"The Field Guide to Identity: Identifiers, Attributes, Names and More" was originally submitted to the 2014 ID360 Conference hosted by the Center for Identity at the University of Texas at Austin, yet illness delayed the presentation. 
+
+The draft paper was published in 2014 on [identitywoman.net](https://identitywoman.net) as four part series:
+
+* Part 1: [Intro + what is Identity?](https://identitywoman.net/the-field-guide-to-identity-identifiers-attributes-names-and-more)
+* Part 2: [Names](https://identitywoman.net/the-field-guide-to-identity-identifiers-attributes-names-and-more-part-2-names)
+* Part 3: [Identifiers](https://identitywoman.net/the-field-guide-to-identity-identifiers-attributes-names-and-more-part-3-identifiers/)
+* Part 4: [Name Space, Attributes and Conclusion](https://identitywoman.net/the-field-guide-to-identity-identifiers-attributes-names-and-more-part-4-name-spaces-attributes-conclusion)
+
+
+<!--chapter:end:index.rmd-->
+
